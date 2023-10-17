@@ -3,3 +3,7 @@
 ### this is to see the header a bit smaller than the first
 
 ###### this is a tiny header
+
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
