@@ -12,3 +12,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Create GitHub account
+- [ ] Follow introduction assignment
+- [ ] Communicate using markdown
